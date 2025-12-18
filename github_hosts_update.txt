@@ -10,6 +10,10 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 connect.facebook.net
 
+
+0.0.0.0 analytics.google.com
+0.0.0.0 stats.g.doubleclick.ru
+
 # Трекеры
 0.0.0.0 analytics.google.ru
 0.0.0.0 stats.g.doubleclick.net
