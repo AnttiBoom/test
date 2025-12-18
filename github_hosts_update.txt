@@ -4,17 +4,14 @@
 # Рекламные сети
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.google.com
-0.0.0.0 pagead2.googlesyndication.commm
+0.0.0.0 pagead2.googlesyndication.com
 
 # Социальные сети
 0.0.0.0 graph.facebook.com
 0.0.0.0 connect.facebook.netmm
 
 # Трекеры
-0.0.0.0 analytics.google.com
-0.0.0.0 stats.g.doubleclick.netmm
+0.0.0.0 analytics.google.ru
+0.0.0.0 stats.g.doubleclick.net
 
-# Дополнительные домены
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 vortex.data.microsoft.commm
-0/0/0/0 dfasdfasf/tt
+0.0.0.0 instagram.com
