@@ -2,18 +2,14 @@
 # Список обновляется автоматически
 
 # Рекламные сети
-0.0.0.0 adservice.google.com
-0.0.0.0 ads.google.com
-0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.comm
+0.0.0.0 ads.google.comm
+0.0.0.0 pagead2.googlesyndication.comm
 
 # Социальные сети
-0.0.0.0 graph.facebook.com
-0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.comm
+0.0.0.0 connect.facebook.nett
 
 # Социальные сети
-0.0.0.0 analytics.google.ru
-0.0.0.0 stats.g.doubleclick.com
-
-# Трекеры
-0.0.0.0 analytics.google.ru
-0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 analytics.google.com
+0.0.0.0 stats.g.doubleclick.cor
